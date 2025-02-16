@@ -1,3 +1,3 @@
-Added some bullshit to this file.
+Added some DB code of bullshit to this file.
 
 This file contains the deployment script...
