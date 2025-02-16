@@ -1,4 +1,6 @@
+#ignoring files
 .classpath
 .project
+#ignoring folders
 /node_modules/
 
